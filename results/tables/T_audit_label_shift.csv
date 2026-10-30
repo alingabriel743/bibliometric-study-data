@@ -1,0 +1,64 @@
+dimension,label,coder_a,coder_b,test,statistic,p,share_a,share_b,q_bh
+relevance,all,claude,gpt,Stuart-Maxwell,62.7597,0.0,,,0.0
+relevance,all,claude,deepseek_a,Stuart-Maxwell,6.6475,0.036,,,0.0908
+relevance,all,gpt,deepseek_a,Stuart-Maxwell,38.6245,0.0,,,0.0
+stance,all,claude,gpt,Stuart-Maxwell,78.5762,0.0,,,0.0
+stance,all,claude,deepseek_a,Stuart-Maxwell,30.2943,0.0,,,0.0
+stance,all,gpt,deepseek_a,Stuart-Maxwell,111.5597,0.0,,,0.0
+mechanisms,DATA,claude,gpt,McNemar exact,16.0,0.0,0.36,0.245,0.0
+mechanisms,DATA,claude,deepseek_a,McNemar exact,11.0,0.0019,0.36,0.4125,0.0067
+mechanisms,DATA,gpt,deepseek_a,McNemar exact,6.0,0.0,0.245,0.4125,0.0
+mechanisms,OPAC,claude,gpt,McNemar exact,12.0,0.7011,0.34,0.3325,0.9816
+mechanisms,OPAC,claude,deepseek_a,McNemar exact,7.0,0.0001,0.34,0.4,0.0005
+mechanisms,OPAC,gpt,deepseek_a,McNemar exact,6.0,0.0,0.3325,0.4,0.0001
+mechanisms,DRIFT,claude,gpt,McNemar exact,0.0,0.0,0.0925,0.205,0.0
+mechanisms,DRIFT,claude,deepseek_a,McNemar exact,9.0,0.8238,0.0925,0.0975,1.0
+mechanisms,DRIFT,gpt,deepseek_a,McNemar exact,3.0,0.0,0.205,0.0975,0.0
+mechanisms,LOOP,claude,gpt,McNemar exact,1.0,1.0,0.01,0.01,1.0
+mechanisms,LOOP,claude,deepseek_a,McNemar exact,0.0,0.5,0.01,0.005,0.7326
+mechanisms,LOOP,gpt,deepseek_a,McNemar exact,0.0,0.5,0.01,0.005,0.7326
+mechanisms,RELY,claude,gpt,McNemar exact,6.0,0.7905,0.045,0.05,1.0
+mechanisms,RELY,claude,deepseek_a,McNemar exact,5.0,0.0266,0.045,0.0725,0.0729
+mechanisms,RELY,gpt,deepseek_a,McNemar exact,3.0,0.0352,0.05,0.0725,0.0908
+mechanisms,HALL,claude,gpt,McNemar exact,0.0,1.0,0.0275,0.025,1.0
+mechanisms,HALL,claude,deepseek_a,McNemar exact,0.0,0.5,0.0275,0.0325,0.7326
+mechanisms,HALL,gpt,deepseek_a,McNemar exact,0.0,0.25,0.025,0.0325,0.4632
+mechanisms,SIM,claude,gpt,McNemar exact,0.0,0.5,0.0075,0.0125,0.7326
+mechanisms,SIM,claude,deepseek_a,McNemar exact,2.0,1.0,0.0075,0.0075,1.0
+mechanisms,SIM,gpt,deepseek_a,McNemar exact,0.0,0.5,0.0125,0.0075,0.7326
+mechanisms,PRIV,claude,gpt,McNemar exact,2.0,0.0129,0.1175,0.1425,0.0388
+mechanisms,PRIV,claude,deepseek_a,McNemar exact,5.0,0.0414,0.1175,0.1425,0.1003
+mechanisms,PRIV,gpt,deepseek_a,McNemar exact,7.0,1.0,0.1425,0.1425,1.0
+functions,FIN,claude,gpt,McNemar exact,0.0,1.0,0.055,0.0525,1.0
+functions,FIN,claude,deepseek_a,McNemar exact,1.0,1.0,0.055,0.055,1.0
+functions,FIN,gpt,deepseek_a,McNemar exact,1.0,1.0,0.0525,0.055,1.0
+functions,HR,claude,gpt,McNemar exact,0.0,0.0625,0.05,0.0625,0.1406
+functions,HR,claude,deepseek_a,McNemar exact,0.0,0.5,0.05,0.055,0.7326
+functions,HR,gpt,deepseek_a,McNemar exact,2.0,0.4531,0.0625,0.055,0.7326
+functions,MKT,claude,gpt,McNemar exact,1.0,1.0,0.0275,0.03,1.0
+functions,MKT,claude,deepseek_a,McNemar exact,1.0,1.0,0.0275,0.0275,1.0
+functions,MKT,gpt,deepseek_a,McNemar exact,0.0,1.0,0.03,0.0275,1.0
+functions,OPS,claude,gpt,McNemar exact,1.0,0.001,0.0475,0.08,0.0036
+functions,OPS,claude,deepseek_a,McNemar exact,2.0,0.1797,0.0475,0.06,0.3652
+functions,OPS,gpt,deepseek_a,McNemar exact,4.0,0.0768,0.08,0.06,0.1669
+functions,MGT,claude,gpt,McNemar exact,4.0,0.7539,0.0625,0.0675,1.0
+functions,MGT,claude,deepseek_a,McNemar exact,2.0,0.0007,0.0625,0.1,0.0031
+functions,MGT,gpt,deepseek_a,McNemar exact,5.0,0.0106,0.0675,0.1,0.0352
+functions,LAW,claude,gpt,McNemar exact,0.0,0.0,0.14,0.225,0.0
+functions,LAW,claude,deepseek_a,McNemar exact,4.0,0.0118,0.14,0.11,0.0372
+functions,LAW,gpt,deepseek_a,McNemar exact,2.0,0.0,0.225,0.11,0.0
+functions,PUB,claude,gpt,McNemar exact,3.0,0.2266,0.0825,0.095,0.4325
+functions,PUB,claude,deepseek_a,McNemar exact,5.0,0.5811,0.0825,0.09,0.832
+functions,PUB,gpt,deepseek_a,McNemar exact,6.0,0.7905,0.095,0.09,1.0
+functions,HEA,claude,gpt,McNemar exact,0.0,0.0625,0.35,0.3625,0.1406
+functions,HEA,claude,deepseek_a,McNemar exact,1.0,0.2188,0.35,0.36,0.4307
+functions,HEA,gpt,deepseek_a,McNemar exact,2.0,1.0,0.3625,0.36,1.0
+functions,EDU,claude,gpt,McNemar exact,0.0,0.0156,0.04,0.0575,0.0447
+functions,EDU,claude,deepseek_a,McNemar exact,0.0,0.5,0.04,0.045,0.7326
+functions,EDU,gpt,deepseek_a,McNemar exact,1.0,0.125,0.0575,0.045,0.2625
+functions,OTH,claude,gpt,McNemar exact,7.0,1.0,0.25,0.2525,1.0
+functions,OTH,claude,deepseek_a,McNemar exact,6.0,1.0,0.25,0.25,1.0
+functions,OTH,gpt,deepseek_a,McNemar exact,10.0,1.0,0.2525,0.25,1.0
+functions,GEN,claude,gpt,McNemar exact,1.0,0.0,0.1725,0.12,0.0
+functions,GEN,claude,deepseek_a,McNemar exact,3.0,0.0009,0.1725,0.1325,0.0034
+functions,GEN,gpt,deepseek_a,McNemar exact,9.0,0.4049,0.12,0.1325,0.7288

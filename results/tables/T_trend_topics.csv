@@ -1,0 +1,18 @@
+keyword,freq,q1,median,q3
+explanations,23,2021.5,2022.0,2025.0
+discrimination,36,2022.0,2023.0,2025.0
+algorithm,57,2021.0,2023.0,2025.0
+accountability,90,2021.0,2023.0,2025.0
+human-centered ai,16,2022.0,2023.5,2025.0
+interpretability,143,2022.5,2024.0,2025.0
+transparency,143,2022.0,2024.0,2025.0
+fairness,347,2022.0,2024.0,2025.0
+causal inference,22,2023.0,2024.5,2025.0
+law,26,2023.0,2024.5,2025.0
+safety,26,2024.0,2024.5,2025.0
+deep learning,477,2024.0,2025.0,2025.0
+machine learning,1190,2023.0,2025.0,2025.0
+artificial intelligence,1637,2024.0,2025.0,2025.0
+risk stratification,26,2025.0,2025.5,2026.0
+nomogram,26,2025.0,2025.5,2026.0
+scoping review,16,2025.0,2026.0,2026.0

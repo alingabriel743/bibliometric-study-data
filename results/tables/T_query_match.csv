@@ -1,0 +1,34 @@
+query_block_or_term,share_of_records
+ai,0.8917991329479769
+  ai: artificial intelligence,0.53125
+  ai: \bai algorithm,0.024927745664739886
+  ai: machine learning,0.4373193641618497
+  ai: deep learning,0.18153901734104047
+  ai: \bai model,0.05473265895953757
+  ai: intelligent system,0.01083815028901734
+credibility,0.9313583815028902
+  credibility: credibility,0.02167630057803468
+  credibility: trustworth,0.10079479768786127
+  credibility: \btrust,0.26571531791907516
+  credibility: reliability,0.24458092485549132
+  credibility: explainab,0.2303106936416185
+  credibility: interpretab,0.24566473988439305
+  credibility: transparen,0.33489884393063585
+  credibility: accountab,0.15028901734104047
+bias,0.9819364161849711
+  bias: \bbias,0.5838150289017341
+  bias: fairness,0.30834537572254334
+  bias: discriminat,0.1891257225433526
+  bias: interference,0.10151734104046242
+business,0.8049132947976878
+  business: business,0.048771676300578035
+  business: enterprise,0.013728323699421965
+  business: organi[sz]ation,0.12048410404624277
+  business: decision making,0.07297687861271676
+  business: decision-making,0.34266618497109824
+  business: management,0.31159682080924855
+  business: corporate,0.07153179190751445
+  business: industr,0.11054913294797687
+  business: commercial,0.031791907514450865
+  business: \bfirm,0.017160404624277457
+all four blocks matched in TI/AB/DE/ID,0.6743135838150289

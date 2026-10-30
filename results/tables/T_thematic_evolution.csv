@@ -1,0 +1,124 @@
+period,cluster,n_terms,centrality,density,label,freq,rcentrality,rdensity,quadrant,n_docs
+2018-2022,0,29,44.493,7.749,artificial intelligence / ethics / bias,439,71.0,59.0,Motor themes,1013
+2018-2022,1,27,62.238,6.068,fairness / explainable artificial intelligence / explainability,424,73.0,55.0,Motor themes,1013
+2018-2022,2,23,55.113,4.262,machine learning / deep learning / neural network,394,72.0,54.0,Motor themes,1013
+2018-2022,3,12,17.401,6.926,trust / ethics of artificial intelligence / algorithmic bias,110,67.0,57.0,Motor themes,1013
+2018-2022,4,9,39.47,17.097,resource management / reliability / internet of things,72,70.0,68.0,Motor themes,1013
+2018-2022,5,5,14.537,12.267,privacy / security / robustness,40,66.0,62.0,Motor themes,1013
+2018-2022,6,6,32.356,20.183,wireless communication / task analysis / training,33,69.0,70.0,Motor themes,1013
+2018-2022,7,4,9.792,50.26,explanations / visualization / intelligent systems,27,63.0,73.0,Motor themes,1013
+2018-2022,8,4,11.698,9.091,automated decision making / data protection / perceptions,25,64.0,61.0,Motor themes,1013
+2018-2022,9,3,8.415,8.497,blockchain / distributed ledger technology / smart contracts,23,62.0,60.0,Motor themes,1013
+2018-2022,10,5,20.217,25.333,computational modeling / data models / biological system modeling,23,68.0,71.0,Motor themes,1013
+2018-2022,11,3,11.97,29.167,interference / quality of service / signal to noise ratio,16,65.0,72.0,Motor themes,1013
+2018-2022,12,3,2.963,18.519,diagnosis / biomarkers / imaging,12,44.0,69.0,Motor themes,1013
+2018-2022,13,2,4.035,7.407,covid-19 / policy,12,52.0,58.0,Motor themes,1013
+2018-2022,14,2,2.239,6.667,classification / feature selection,11,35.0,56.0,Niche themes,1013
+2018-2022,15,1,3.328,0.0,clustering,8,48.0,27.0,Basic themes,1013
+2018-2022,16,2,0.937,13.333,support vector machine / electromagnetic interference,8,8.0,65.5,Niche themes,1013
+2018-2022,17,2,7.124,12.5,lime / shap,8,60.0,63.5,Motor themes,1013
+2018-2022,18,2,6.487,12.5,deep neural network / dimensionality reduction,8,59.0,63.5,Motor themes,1013
+2018-2022,19,2,3.17,13.333,governance / compliance,8,47.0,65.5,Motor themes,1013
+2018-2022,20,2,0.143,16.667,magnetic resonance imaging / computed tomography,7,2.0,67.0,Niche themes,1013
+2018-2022,21,1,1.284,0.0,industry 4.0,5,16.0,27.0,Emerging or declining themes,1013
+2018-2022,22,1,2.005,0.0,human-in-the-loop,5,29.0,27.0,Emerging or declining themes,1013
+2018-2022,23,1,1.536,0.0,human-centered ai,5,20.0,27.0,Emerging or declining themes,1013
+2018-2022,24,1,1.361,0.0,datasets,5,18.0,27.0,Emerging or declining themes,1013
+2018-2022,25,1,1.157,0.0,machine learning models,5,13.0,27.0,Emerging or declining themes,1013
+2018-2022,26,1,2.96,0.0,causal inference,5,43.0,27.0,Basic themes,1013
+2018-2022,27,1,1.82,0.0,remote sensing,5,26.0,27.0,Emerging or declining themes,1013
+2018-2022,28,1,3.15,0.0,recommender systems,4,46.0,27.0,Basic themes,1013
+2018-2022,29,1,0.637,0.0,artificial neural network,4,7.0,27.0,Emerging or declining themes,1013
+2018-2022,30,1,1.004,0.0,game theory,4,10.0,27.0,Emerging or declining themes,1013
+2018-2022,31,1,2.473,0.0,public administration,4,39.0,27.0,Basic themes,1013
+2018-2022,32,1,2.012,0.0,risk assessment,4,30.0,27.0,Emerging or declining themes,1013
+2018-2022,33,1,2.791,0.0,risk management,4,42.0,27.0,Basic themes,1013
+2018-2022,34,1,2.086,0.0,calibration,4,31.0,27.0,Emerging or declining themes,1013
+2018-2022,35,1,1.899,0.0,multi-agent systems,4,27.0,27.0,Emerging or declining themes,1013
+2018-2022,36,1,1.195,0.0,sentiment analysis,4,14.0,27.0,Emerging or declining themes,1013
+2018-2022,37,1,3.464,0.0,supervised machine learning,4,49.0,27.0,Basic themes,1013
+2018-2022,38,1,1.542,0.0,cross-validation,4,22.0,27.0,Emerging or declining themes,1013
+2018-2022,39,1,1.108,0.0,stress,4,11.0,27.0,Emerging or declining themes,1013
+2018-2022,40,1,2.119,0.0,automation bias,4,32.0,27.0,Emerging or declining themes,1013
+2018-2022,41,1,0.296,0.0,process mining,3,3.0,27.0,Emerging or declining themes,1013
+2018-2022,42,1,1.25,0.0,bias mitigation,3,15.0,27.0,Emerging or declining themes,1013
+2018-2022,43,1,1.477,0.0,evaluation,3,19.0,27.0,Emerging or declining themes,1013
+2018-2022,44,1,2.393,0.0,data visualization,3,38.0,27.0,Basic themes,1013
+2018-2022,45,1,2.549,0.0,visual explanation,3,41.0,27.0,Basic themes,1013
+2018-2022,46,1,5.258,0.0,ai act,3,57.0,27.0,Basic themes,1013
+2018-2022,47,1,3.579,0.0,reputation,3,51.0,27.0,Basic themes,1013
+2018-2022,48,1,2.001,0.0,management,3,28.0,27.0,Emerging or declining themes,1013
+2018-2022,49,1,1.667,0.0,model interpretability,3,23.0,27.0,Emerging or declining themes,1013
+2018-2022,50,1,2.189,0.0,fraud detection,3,34.0,27.0,Emerging or declining themes,1013
+2018-2022,51,1,1.764,0.0,expertise,3,24.0,27.0,Emerging or declining themes,1013
+2018-2022,52,1,2.51,0.0,algorithmic discrimination,3,40.0,27.0,Basic themes,1013
+2018-2022,53,1,1.357,0.0,uncertainty,3,17.0,27.0,Emerging or declining themes,1013
+2018-2022,54,1,3.493,0.0,education,3,50.0,27.0,Basic themes,1013
+2018-2022,55,1,1.816,0.0,visual analytics,3,25.0,27.0,Emerging or declining themes,1013
+2018-2022,56,1,3.09,0.0,human factors,3,45.0,27.0,Basic themes,1013
+2018-2022,57,1,0.326,0.0,personnel selection,3,4.0,27.0,Emerging or declining themes,1013
+2018-2022,58,1,4.37,0.0,deep reinforcement learning,3,54.0,27.0,Basic themes,1013
+2018-2022,59,1,1.154,0.0,regulation of artificial intelligence,3,12.0,27.0,Emerging or declining themes,1013
+2018-2022,60,1,0.952,0.0,feature importance,3,9.0,27.0,Emerging or declining themes,1013
+2018-2022,61,1,4.437,0.0,graph neural networks,3,55.0,27.0,Basic themes,1013
+2018-2022,62,1,4.507,0.0,machine learning algorithms,3,56.0,27.0,Basic themes,1013
+2018-2022,63,1,2.26,0.0,databases,3,37.0,27.0,Basic themes,1013
+2018-2022,64,1,2.244,0.0,computational social science,3,36.0,27.0,Emerging or declining themes,1013
+2018-2022,65,1,4.164,0.0,monitoring,3,53.0,27.0,Basic themes,1013
+2018-2022,66,1,0.432,0.0,uncertainty estimation,3,5.0,27.0,Emerging or declining themes,1013
+2018-2022,67,1,7.816,0.0,performance evaluation,3,61.0,27.0,Basic themes,1013
+2018-2022,68,1,5.682,0.0,throughput,3,58.0,27.0,Basic themes,1013
+2018-2022,69,1,2.155,0.0,autonomous vehicles,3,33.0,27.0,Emerging or declining themes,1013
+2018-2022,70,1,1.539,0.0,participatory design,3,21.0,27.0,Emerging or declining themes,1013
+2018-2022,71,1,0.0,0.0,modeling,3,1.0,27.0,Emerging or declining themes,1013
+2018-2022,72,1,0.571,0.0,sentinel-2,3,6.0,27.0,Emerging or declining themes,1013
+2023-2024,0,52,63.25,5.071,artificial intelligence / machine learning / ethics,1128,39.0,26.0,Motor themes,1425
+2023-2024,1,32,54.356,5.075,explainable artificial intelligence / fairness / explainability,609,38.0,27.0,Motor themes,1425
+2023-2024,2,13,15.459,2.471,deep learning / convolutional neural network / computer vision,214,35.0,21.0,Motor themes,1425
+2023-2024,3,15,52.631,17.053,decision making / data models / training,175,37.0,37.0,Motor themes,1425
+2023-2024,4,8,13.77,3.188,large language models / generative artificial intelligence / natural language processing,134,34.0,24.0,Motor themes,1425
+2023-2024,5,14,32.977,17.887,reliability / internet of things / federated learning,123,36.0,38.0,Motor themes,1425
+2023-2024,6,7,12.279,3.138,algorithm / discrimination / algorithmic bias,74,33.0,23.0,Motor themes,1425
+2023-2024,7,8,8.898,6.517,trust / algorithmic decision making / education,67,29.0,31.0,Motor themes,1425
+2023-2024,8,4,11.956,5.972,privacy / security / ethical considerations,41,32.0,29.0,Motor themes,1425
+2023-2024,9,5,11.304,16.394,feature extraction / sensors / intelligent systems,31,31.0,36.0,Motor themes,1425
+2023-2024,10,4,5.923,10.714,shap / sepsis / acute kidney injury,29,27.0,34.0,Motor themes,1425
+2023-2024,11,3,7.463,15.137,blockchain / servers / smart contracts,27,28.0,35.0,Motor themes,1425
+2023-2024,12,3,8.978,6.667,surveys / human factors / industries,20,30.0,32.0,Motor themes,1425
+2023-2024,13,2,3.639,3.125,covid-19 / prediction,16,23.0,22.0,Motor themes,1425
+2023-2024,14,2,5.157,4.167,law / evaluation,14,26.0,25.0,Motor themes,1425
+2023-2024,15,2,3.811,5.556,decision support system / clinical,13,24.0,28.0,Motor themes,1425
+2023-2024,16,2,1.959,6.25,random forest / decision tree,12,16.0,30.0,Niche themes,1425
+2023-2024,17,2,3.057,8.0,digital transformation / technology adoption,10,21.0,33.0,Motor themes,1425
+2023-2024,18,2,3.259,33.333,group fairness / individual fairness,10,22.0,39.0,Motor themes,1425
+2023-2024,19,1,0.525,0.0,explainable machine learning,9,2.0,10.5,Emerging or declining themes,1425
+2023-2024,20,1,1.31,0.0,causal inference,6,9.0,10.5,Emerging or declining themes,1425
+2023-2024,21,1,0.633,0.0,synthetic data,5,4.0,10.5,Emerging or declining themes,1425
+2023-2024,22,1,1.658,0.0,causality,5,13.0,10.5,Emerging or declining themes,1425
+2023-2024,23,1,2.035,0.0,automation bias,5,17.0,10.5,Emerging or declining themes,1425
+2023-2024,24,1,0.473,0.0,fair machine learning,5,1.0,10.5,Emerging or declining themes,1425
+2023-2024,25,1,1.0,0.0,ensemble learning,5,7.0,10.5,Emerging or declining themes,1425
+2023-2024,26,1,1.718,0.0,experiment,5,14.0,10.5,Emerging or declining themes,1425
+2023-2024,27,1,1.944,0.0,recommender systems,5,15.0,10.5,Emerging or declining themes,1425
+2023-2024,28,1,2.633,0.0,fuzzy logic,4,19.0,10.5,Emerging or declining themes,1425
+2023-2024,29,1,0.553,0.0,meta-analysis,4,3.0,10.5,Emerging or declining themes,1425
+2023-2024,30,1,3.903,0.0,energy efficiency,4,25.0,10.5,Basic themes,1425
+2023-2024,31,1,1.531,0.0,reinforcement learning,4,11.0,10.5,Emerging or declining themes,1425
+2023-2024,32,1,1.334,0.0,ai fairness,4,10.0,10.5,Emerging or declining themes,1425
+2023-2024,33,1,2.876,0.0,electronic health records,4,20.0,10.5,Basic themes,1425
+2023-2024,34,1,0.637,0.0,recommendations,4,5.0,10.5,Emerging or declining themes,1425
+2023-2024,35,1,1.185,0.0,ai bias,4,8.0,10.5,Emerging or declining themes,1425
+2023-2024,36,1,2.072,0.0,supervised learning,4,18.0,10.5,Emerging or declining themes,1425
+2023-2024,37,1,1.637,0.0,algorithm aversion,4,12.0,10.5,Emerging or declining themes,1425
+2023-2024,38,1,0.763,0.0,data bias,4,6.0,10.5,Emerging or declining themes,1425
+2025-2026,0,44,42.365,4.526,artificial intelligence / ethics / decision making,2028,11.0,8.0,Motor themes,3098
+2025-2026,1,40,22.926,3.745,machine learning / deep learning / explainable artificial intelligence,1822,6.0,6.0,Motor themes,3098
+2025-2026,2,38,25.663,4.129,large language models / fairness / generative artificial intelligence,1320,8.0,7.0,Motor themes,3098
+2025-2026,3,26,34.972,17.575,reliability / interference / optimization,464,9.0,11.0,Motor themes,3098
+2025-2026,4,15,35.848,13.224,predictive models / training / data models,268,10.0,10.0,Motor themes,3098
+2025-2026,5,13,24.058,5.747,accuracy / convolutional neural network / feature extraction,247,7.0,9.0,Motor themes,3098
+2025-2026,6,11,8.117,1.921,systematic review / meta-analysis / prediction,221,5.0,4.0,Emerging or declining themes,3098
+2025-2026,7,6,4.384,2.73,digital health / health equity / public health,94,4.0,5.0,Emerging or declining themes,3098
+2025-2026,8,2,2.916,1.364,internet of things / industry 4.0,43,3.0,1.0,Emerging or declining themes,3098
+2025-2026,9,3,1.636,1.376,human resource management / bibliometric analysis / algorithmic decision making,41,2.0,2.0,Emerging or declining themes,3098
+2025-2026,10,2,1.475,1.818,diagnostic accuracy / radiology,21,1.0,3.0,Emerging or declining themes,3098

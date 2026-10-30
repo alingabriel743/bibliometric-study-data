@@ -1,0 +1,26 @@
+openalex_id,first_author,year,title,venue,doi,field,local_citations,global_citations
+https://openalex.org/W2282821441,Ribeiro,2016,"""Why Should I Trust You?""",ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD),https://doi.org/10.1145/2939672.2939778,Computer Science,311,17352
+https://openalex.org/W2981869278,Obermeyer,2019,Dissecting racial bias in an algorithm used to manage the health of populations,Science,https://doi.org/10.1126/science.aax2342,Social Sciences,247,7012
+https://openalex.org/W2969896603,Mehrabi,2021,A Survey on Bias and Fairness in Machine Learning,ACM Computing Surveys,https://doi.org/10.1145/3457607,Social Sciences,231,5774
+https://openalex.org/W2953522645,Jobin,2019,The global landscape of AI ethics guidelines,Nature Machine Intelligence,https://doi.org/10.1038/s42256-019-0088-2,Social Sciences,211,6120
+https://openalex.org/W2981731882,Arrieta,2019,"Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",Information Fusion,https://doi.org/10.1016/j.inffus.2019.12.012,Computer Science,209,10334
+https://openalex.org/W2911964244,Breiman,2001,Random Forests,Machine Learning,https://doi.org/10.1023/a:1010933404324,Mathematics,208,132047
+https://openalex.org/W2945976633,Rudin,2019,Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead,Nature Machine Intelligence,https://doi.org/10.1038/s42256-019-0048-x,Computer Science,203,10369
+https://openalex.org/W2618851150,Lundberg,2017,A Unified Approach to Interpreting Model Predictions,arXiv (Cornell University),https://doi.org/10.48550/arxiv.1705.07874,Computer Science,165,15618
+https://openalex.org/W2100960835,Dwork,2012,Fairness through awareness,Proceedings of the 3rd Innovations in Theoretical Computer Science Conference,https://doi.org/10.1145/2090236.2090255,Social Sciences,159,3492
+https://openalex.org/W3118615836,Page,2021,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,BMJ,https://doi.org/10.1136/bmj.n71,Decision Sciences,155,106222
+https://openalex.org/W2908201961,Topol,2018,High-performance medicine: the convergence of human and artificial intelligence,Nature Medicine,https://doi.org/10.1038/s41591-018-0300-7,Medicine,147,10219
+https://openalex.org/W2295598076,Chen,2016,XGBoost,ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD),https://doi.org/10.1145/2939672.2939785,Mathematics,142,53393
+https://openalex.org/W2194775991,He,2016,Deep Residual Learning for Image Recognition,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,https://doi.org/10.1109/cvpr.2016.90,Computer Science,139,234403
+https://openalex.org/W2919115771,LeCun,2015,Deep learning,Nature,https://doi.org/10.1038/nature14539,Computer Science,132,83759
+https://openalex.org/W2891503716,Adadi,2018,Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI),IEEE Access,https://doi.org/10.1109/access.2018.2870052,Computer Science,129,6242
+https://openalex.org/W3123374861,Barocas,2014,Big Data's Disparate Impact,SSRN Electronic Journal,https://doi.org/10.2139/ssrn.2477899,Social Sciences,117,3039
+https://openalex.org/W2670253439,Miller,2018,Explanation in artificial intelligence: Insights from the social sciences,Artificial Intelligence,https://doi.org/10.1016/j.artint.2018.07.007,Computer Science,108,5258
+https://openalex.org/W2543774860,Chouldechova,2017,Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments,Big Data,https://doi.org/10.1089/big.2016.0047,Social Sciences,104,2147
+https://openalex.org/W2902634493,Floridi,2018,"AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations",Minds and Machines,https://doi.org/10.1007/s11023-018-9482-5,Social Sciences,102,4679
+https://openalex.org/W2962858109,Selvaraju,2017,Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization,IEEE International Conference on Computer Vision (ICCV),https://doi.org/10.1109/iccv.2017.74,Computer Science,101,24289
+https://openalex.org/W2962772482,Guidotti,2019,A survey of methods for explaining black box models,ISTI Open Portal,https://doi.org/10.1145/3236009,Computer Science,99,5038
+https://openalex.org/W2014352947,Feldman,2015,Certifying and Removing Disparate Impact,ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD),https://doi.org/10.1145/2783258.2783311,Social Sciences,99,1824
+https://openalex.org/W2962862931,Gauriat,2024,On a Method to Measure Supervised Multiclass Model’s Interpretability: Application to Degradation Diagnosis (Short Paper),HAL (Le Centre pour la Communication Scientifique Directe),https://doi.org/10.4230/oasics.dx.2024.27,Computer Science,98,12595
+https://openalex.org/W2439568532,Lipton,2018,The Mythos of Model Interpretability,Communications of the ACM,https://doi.org/10.1145/3233231,Computer Science,98,5382
+https://openalex.org/W2530395818,Hardt,2016,Equality of Opportunity in Supervised Learning,arXiv (Cornell University),https://doi.org/10.48550/arxiv.1610.02413,Social Sciences,95,2533

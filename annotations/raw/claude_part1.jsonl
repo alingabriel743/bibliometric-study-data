@@ -1,0 +1,100 @@
+{"id": "A293", "relevance": "RELATED", "functions": ["GEN", "HEA", "EDU"], "primary_function": "GEN", "mechanisms": [], "stance": "OPT", "confidence": 0.55}
+{"id": "A074", "relevance": "OFF", "functions": ["FIN"], "primary_function": "FIN", "mechanisms": ["OPAC", "DRIFT"], "stance": "OPT", "confidence": 0.5}
+{"id": "A348", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A307", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": ["DATA"], "stance": "CRIT", "confidence": 0.7}
+{"id": "A325", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": ["OPAC", "RELY", "DRIFT"], "stance": "CAUT", "confidence": 0.7}
+{"id": "A378", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A072", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.65}
+{"id": "A369", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.8}
+{"id": "A314", "relevance": "CORE", "functions": ["EDU", "LAW"], "primary_function": "EDU", "mechanisms": ["HALL", "DATA", "OPAC"], "stance": "CAUT", "confidence": 0.55}
+{"id": "A251", "relevance": "CORE", "functions": ["GEN", "MGT"], "primary_function": "GEN", "mechanisms": ["DATA"], "stance": "OPT", "confidence": 0.6}
+{"id": "A093", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.8}
+{"id": "A118", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A165", "relevance": "CORE", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": ["DATA", "OPAC"], "stance": "OPT", "confidence": 0.7}
+{"id": "A187", "relevance": "CORE", "functions": ["HEA", "LAW"], "primary_function": "HEA", "mechanisms": ["DATA", "OPAC", "PRIV"], "stance": "CAUT", "confidence": 0.6}
+{"id": "A016", "relevance": "CORE", "functions": ["LAW", "GEN"], "primary_function": "LAW", "mechanisms": [], "stance": "OPT", "confidence": 0.7}
+{"id": "A282", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A128", "relevance": "OFF", "functions": ["OPS"], "primary_function": "OPS", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A134", "relevance": "CORE", "functions": ["EDU", "GEN"], "primary_function": "EDU", "mechanisms": ["DATA", "OPAC"], "stance": "OPT", "confidence": 0.6}
+{"id": "A211", "relevance": "RELATED", "functions": ["EDU"], "primary_function": "EDU", "mechanisms": ["DATA"], "stance": "CAUT", "confidence": 0.65}
+{"id": "A271", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.7}
+{"id": "A299", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.85}
+{"id": "A030", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": ["RELY"], "stance": "CRIT", "confidence": 0.75}
+{"id": "A150", "relevance": "RELATED", "functions": ["HEA", "PUB"], "primary_function": "HEA", "mechanisms": ["DATA"], "stance": "CAUT", "confidence": 0.55}
+{"id": "A149", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.85}
+{"id": "A322", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.85}
+{"id": "A076", "relevance": "CORE", "functions": ["HR"], "primary_function": "HR", "mechanisms": ["DATA", "OPAC", "PRIV"], "stance": "CRIT", "confidence": 0.9}
+{"id": "A097", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": ["DRIFT", "HALL", "RELY"], "stance": "CAUT", "confidence": 0.5}
+{"id": "A222", "relevance": "OFF", "functions": ["OPS", "OTH"], "primary_function": "OPS", "mechanisms": [], "stance": "NEUT", "confidence": 0.85}
+{"id": "A176", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": ["DATA", "DRIFT"], "stance": "CAUT", "confidence": 0.5}
+{"id": "A226", "relevance": "CORE", "functions": ["HR"], "primary_function": "HR", "mechanisms": ["DATA", "RELY"], "stance": "CRIT", "confidence": 0.8}
+{"id": "A154", "relevance": "OFF", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A381", "relevance": "OFF", "functions": ["HEA", "OPS"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A186", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A318", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A335", "relevance": "OFF", "functions": ["MKT", "MGT"], "primary_function": "MKT", "mechanisms": [], "stance": "CRIT", "confidence": 0.75}
+{"id": "A145", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.85}
+{"id": "A133", "relevance": "CORE", "functions": ["PUB", "LAW"], "primary_function": "PUB", "mechanisms": ["OPAC", "DATA", "HALL"], "stance": "CRIT", "confidence": 0.85}
+{"id": "A297", "relevance": "RELATED", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": ["DATA"], "stance": "OPT", "confidence": 0.75}
+{"id": "A292", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "CRIT", "confidence": 0.7}
+{"id": "A086", "relevance": "RELATED", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": ["DATA"], "stance": "NEUT", "confidence": 0.6}
+{"id": "A312", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": ["DATA"], "stance": "NEUT", "confidence": 0.6}
+{"id": "A167", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A095", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "OPT", "confidence": 0.9}
+{"id": "A397", "relevance": "RELATED", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": ["DATA"], "stance": "CAUT", "confidence": 0.7}
+{"id": "A163", "relevance": "OFF", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": [], "stance": "NEUT", "confidence": 0.7}
+{"id": "A394", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "CAUT", "confidence": 0.7}
+{"id": "A387", "relevance": "CORE", "functions": ["GEN", "FIN", "HR"], "primary_function": "GEN", "mechanisms": ["PRIV", "OPAC", "DATA"], "stance": "CAUT", "confidence": 0.65}
+{"id": "A170", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A291", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": ["OPAC", "DATA"], "stance": "CAUT", "confidence": 0.8}
+{"id": "A319", "relevance": "RELATED", "functions": ["GEN", "OTH"], "primary_function": "GEN", "mechanisms": ["RELY"], "stance": "NEUT", "confidence": 0.75}
+{"id": "A182", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A309", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A014", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.85}
+{"id": "A276", "relevance": "RELATED", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": ["DATA"], "stance": "OPT", "confidence": 0.75}
+{"id": "A146", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A114", "relevance": "CORE", "functions": ["PUB", "LAW"], "primary_function": "PUB", "mechanisms": ["OPAC", "PRIV"], "stance": "CAUT", "confidence": 0.85}
+{"id": "A075", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": ["DATA", "OPAC"], "stance": "CAUT", "confidence": 0.5}
+{"id": "A067", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "OPT", "confidence": 0.55}
+{"id": "A341", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A020", "relevance": "CORE", "functions": ["HEA", "LAW"], "primary_function": "HEA", "mechanisms": ["PRIV", "DATA"], "stance": "CAUT", "confidence": 0.55}
+{"id": "A102", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.75}
+{"id": "A051", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.8}
+{"id": "A174", "relevance": "RELATED", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": ["DATA"], "stance": "OPT", "confidence": 0.75}
+{"id": "A144", "relevance": "CORE", "functions": ["HR", "MGT"], "primary_function": "HR", "mechanisms": ["DATA", "OPAC"], "stance": "CAUT", "confidence": 0.6}
+{"id": "A343", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "OPT", "confidence": 0.65}
+{"id": "A313", "relevance": "CORE", "functions": ["HR", "MGT"], "primary_function": "HR", "mechanisms": ["DATA"], "stance": "CAUT", "confidence": 0.85}
+{"id": "A388", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.55}
+{"id": "A013", "relevance": "RELATED", "functions": ["EDU"], "primary_function": "EDU", "mechanisms": ["DATA", "OPAC"], "stance": "CAUT", "confidence": 0.55}
+{"id": "A326", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.85}
+{"id": "A248", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A185", "relevance": "RELATED", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": ["OPAC"], "stance": "OPT", "confidence": 0.65}
+{"id": "A239", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.85}
+{"id": "A308", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A346", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A365", "relevance": "RELATED", "functions": ["EDU"], "primary_function": "EDU", "mechanisms": ["OPAC"], "stance": "OPT", "confidence": 0.65}
+{"id": "A368", "relevance": "OFF", "functions": ["FIN"], "primary_function": "FIN", "mechanisms": [], "stance": "NEUT", "confidence": 0.85}
+{"id": "A015", "relevance": "CORE", "functions": ["OTH", "PUB"], "primary_function": "OTH", "mechanisms": ["OPAC"], "stance": "OPT", "confidence": 0.6}
+{"id": "A119", "relevance": "OFF", "functions": ["OPS"], "primary_function": "OPS", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A121", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A202", "relevance": "CORE", "functions": ["MKT", "HR"], "primary_function": "MKT", "mechanisms": ["LOOP", "PRIV", "DATA"], "stance": "CRIT", "confidence": 0.55}
+{"id": "A198", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A006", "relevance": "RELATED", "functions": ["HEA", "GEN"], "primary_function": "HEA", "mechanisms": ["DATA", "PRIV"], "stance": "CRIT", "confidence": 0.55}
+{"id": "A099", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "OPT", "confidence": 0.85}
+{"id": "A083", "relevance": "OFF", "functions": ["MGT"], "primary_function": "MGT", "mechanisms": [], "stance": "NEUT", "confidence": 0.8}
+{"id": "A141", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.8}
+{"id": "A321", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A188", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A331", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "CAUT", "confidence": 0.45}
+{"id": "A069", "relevance": "OFF", "functions": ["OTH", "OPS"], "primary_function": "OTH", "mechanisms": [], "stance": "OPT", "confidence": 0.6}
+{"id": "A027", "relevance": "RELATED", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": ["DRIFT", "DATA", "OPAC"], "stance": "NEUT", "confidence": 0.6}
+{"id": "A334", "relevance": "CORE", "functions": ["HEA", "MGT"], "primary_function": "HEA", "mechanisms": ["PRIV", "DATA", "RELY"], "stance": "CAUT", "confidence": 0.6}
+{"id": "A351", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "OPT", "confidence": 0.75}
+{"id": "A258", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.95}
+{"id": "A391", "relevance": "RELATED", "functions": ["GEN", "LAW"], "primary_function": "GEN", "mechanisms": [], "stance": "NEUT", "confidence": 0.6}
+{"id": "A054", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": ["PRIV"], "stance": "CAUT", "confidence": 0.65}
+{"id": "A041", "relevance": "OFF", "functions": ["OTH"], "primary_function": "OTH", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A103", "relevance": "RELATED", "functions": ["GEN"], "primary_function": "GEN", "mechanisms": [], "stance": "CRIT", "confidence": 0.45}
+{"id": "A034", "relevance": "OFF", "functions": ["OPS", "OTH"], "primary_function": "OPS", "mechanisms": [], "stance": "NEUT", "confidence": 0.9}
+{"id": "A131", "relevance": "RELATED", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": ["RELY"], "stance": "CAUT", "confidence": 0.7}
+{"id": "A265", "relevance": "OFF", "functions": ["HEA"], "primary_function": "HEA", "mechanisms": [], "stance": "NEUT", "confidence": 0.7}

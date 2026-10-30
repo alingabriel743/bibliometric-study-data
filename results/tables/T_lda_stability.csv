@@ -1,0 +1,16 @@
+K,seed,matching,is_baseline,mean_cosine,min_cosine,share_matched_ge_0.6
+12,0,best_match,False,0.891,0.6399,1.0
+12,1,best_match,False,0.7865,0.424,0.7857
+12,2,best_match,False,0.8013,0.2356,0.8571
+12,3,best_match,False,0.7828,0.5142,0.9286
+12,4,best_match,False,0.8093,0.4634,0.8571
+14,0,hungarian,True,1.0,1.0,1.0
+14,1,hungarian,False,0.7155,0.1302,0.7857
+14,2,hungarian,False,0.7196,0.1011,0.7857
+14,3,hungarian,False,0.7874,0.3243,0.9286
+14,4,hungarian,False,0.7612,0.3056,0.7857
+16,0,best_match,False,0.9398,0.7219,1.0
+16,1,best_match,False,0.8019,0.4766,0.7857
+16,2,best_match,False,0.8321,0.4757,0.9286
+16,3,best_match,False,0.8485,0.6506,1.0
+16,4,best_match,False,0.8219,0.4939,0.9286

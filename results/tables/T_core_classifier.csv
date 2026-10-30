@@ -1,0 +1,14 @@
+,value
+n_train,400.0
+core_share_train,0.2925
+auc_oof,0.8498384222765848
+threshold,0.45000000000000007
+precision_oof,0.6330935251798561
+recall_oof,0.7521367521367521
+f1_oof,0.6875
+n_predicted_core,2054.0
+share_predicted_core,0.37102601156069365
+n_business_core,1526.0
+share_same_direction,0.8125
+share_same_direction_significant,0.1875
+n_new_significant_in_core,2.0

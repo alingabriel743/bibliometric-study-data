@@ -1,0 +1,13 @@
+row,theme,n_docs,n_pairs,observed,null_mean,null_lo95,null_hi95,z,p_perm,within_mean,between_mean,n_perm,n_strata,pair_density
+overall,all,3858,1835942,1.65566,0.980555,0.935613,1.02541,29.1281,0.00019996,0.00082189,0.000496412,5000,27,0.050659
+theme_within_mean,0: artificial intelligence / ethics / large language models,1233,759528,0.000844368,0.000556755,0.000502299,0.00061491,9.98949,0.00019996,,,5000,,
+theme_within_mean,1: machine learning / deep learning / explainable artificial intelligence,1341,898470,0.000551427,0.000561357,0.000508924,0.000616093,-0.361273,0.638272,,,5000,,
+theme_within_mean,2: fairness / interpretability / transparency,481,115440,0.00278891,0.000692263,0.000572588,0.000828648,32.6369,0.00019996,,,5000,,
+theme_within_mean,3: predictive models / accuracy / training,218,23653,0.000524062,0.000548363,0.0004026,0.000726651,-0.294642,0.593881,,,5000,,
+theme_within_mean,4: reliability / resource management / internet of things,181,16290,0.00042674,0.000570805,0.000401664,0.000781922,-1.46974,0.94881,,,5000,,
+theme_within_mean,5: privacy / blockchain / security,146,10585,0.000582759,0.000652736,0.000441861,0.00091176,-0.577433,0.69906,,,5000,,
+theme_within_mean,6: ethics of artificial intelligence / responsible artificial intelligence / artificial intelligence governance,138,9453,0.00190777,0.000551673,0.0003774,0.000781685,13.2243,0.00019996,,,5000,,
+theme_within_mean,7: surveys / decision support system / safety,61,1830,0.0017289,0.00064961,0.000354818,0.00105208,6.01902,0.00019996,,,5000,,
+theme_within_mean,8: human resource management / bibliometric analysis / algorithmic management,33,528,0.00630589,0.000606455,0.000222643,0.00118301,23.0671,0.00019996,,,5000,,
+theme_within_mean,9: calibration / monitoring,16,120,0.0011617,0.000590149,0,0.00179593,1.18577,0.107179,,,5000,,
+theme_within_mean,10: machine learning models,10,45,0.00104118,0.000574046,0,0.00198875,0.789938,0.159968,,,5000,,

@@ -1,0 +1,51 @@
+term,dim1,dim2,cluster
+artificial intelligence,-0.2726,0.2348,1
+machine learning,-0.0477,-0.7954,2
+deep learning,0.5248,-0.6048,2
+explainable artificial intelligence,-0.1343,-0.6242,2
+fairness,-0.5613,0.0201,1
+ethics,-0.4307,0.6055,1
+large language models,-0.5008,0.8082,1
+generative artificial intelligence,-0.5885,1.231,1
+ethics of artificial intelligence,-0.8099,0.9829,1
+transparency,-0.746,0.3607,1
+interpretability,-0.0828,-1.0231,2
+explainability,-0.5187,-0.0411,1
+bias,-0.6293,0.2668,1
+decision making,0.0588,0.3579,1
+trust,-0.628,0.5486,1
+shap,0.1444,-2.7368,2
+systematic review,-0.1631,-0.133,1
+accountability,-0.7715,0.4841,1
+algorithmic bias,-0.7469,0.6985,1
+clinical decision support,-0.4364,-0.1491,1
+predictive models,0.8928,-0.4772,2
+natural language processing,-0.2177,0.0332,1
+trustworthy artificial intelligence,-0.5959,0.0896,1
+responsible artificial intelligence,-0.5653,0.8529,1
+healthcare,-0.4833,0.6168,1
+reliability,2.277,0.9771,0
+accuracy,1.7456,0.0956,0
+resource management,3.0054,1.1456,0
+training,1.9327,0.5931,0
+privacy,-0.3696,0.6886,1
+convolutional neural network,1.2313,-1.0697,2
+internet of things,1.8962,0.505,0
+interference,3.171,1.0273,0
+blockchain,0.4738,0.3042,1
+algorithm,-0.7003,0.3505,1
+optimization,2.5781,0.967,0
+data models,1.2919,0.2187,0
+chatgpt,-0.7805,1.3133,1
+neural network,1.092,-0.4669,2
+security,1.0007,0.7117,0
+artificial intelligence governance,-0.9605,1.0502,1
+random forest,0.1562,-2.949,2
+prediction model,0.0196,-2.9551,2
+federated learning,0.6568,0.3779,1
+feature extraction,2.7588,0.1804,0
+data privacy,-0.0882,0.8607,1
+big data,-0.1919,-0.0651,1
+computational modeling,1.8828,0.4808,0
+regulation,-0.6146,0.6653,1
+risk prediction,-0.0378,-2.1137,2

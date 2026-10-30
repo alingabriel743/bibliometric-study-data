@@ -1,0 +1,275 @@
+citing_field,cited_field,n,row_share
+Agricultural and Biological Sciences,Computer Science,111,0.5311
+Agricultural and Biological Sciences,Mathematics,49,0.2344
+Agricultural and Biological Sciences,Decision Sciences,18,0.0861
+Agricultural and Biological Sciences,Environmental Science,11,0.0526
+Agricultural and Biological Sciences,Social Sciences,6,0.0287
+Agricultural and Biological Sciences,Medicine,5,0.0239
+Agricultural and Biological Sciences,Earth and Planetary Sciences,2,0.0096
+Agricultural and Biological Sciences,Agricultural and Biological Sciences,1,0.0048
+Agricultural and Biological Sciences,Arts and Humanities,1,0.0048
+Agricultural and Biological Sciences,"Biochemistry, Genetics and Molecular Biology",1,0.0048
+Agricultural and Biological Sciences,"Economics, Econometrics and Finance",1,0.0048
+Agricultural and Biological Sciences,Health Professions,1,0.0048
+Agricultural and Biological Sciences,Physics and Astronomy,1,0.0048
+Agricultural and Biological Sciences,Psychology,1,0.0048
+Arts and Humanities,Computer Science,20,0.3846
+Arts and Humanities,Social Sciences,15,0.2885
+Arts and Humanities,Medicine,10,0.1923
+Arts and Humanities,Decision Sciences,5,0.0962
+Arts and Humanities,"Business, Management and Accounting",1,0.0192
+Arts and Humanities,Health Professions,1,0.0192
+"Biochemistry, Genetics and Molecular Biology",Computer Science,123,0.5775
+"Biochemistry, Genetics and Molecular Biology",Medicine,29,0.1362
+"Biochemistry, Genetics and Molecular Biology",Mathematics,21,0.0986
+"Biochemistry, Genetics and Molecular Biology",Decision Sciences,17,0.0798
+"Biochemistry, Genetics and Molecular Biology","Biochemistry, Genetics and Molecular Biology",10,0.0469
+"Biochemistry, Genetics and Molecular Biology",Social Sciences,10,0.0469
+"Biochemistry, Genetics and Molecular Biology",Chemistry,1,0.0047
+"Biochemistry, Genetics and Molecular Biology",Engineering,1,0.0047
+"Biochemistry, Genetics and Molecular Biology",Health Professions,1,0.0047
+"Business, Management and Accounting",Social Sciences,615,0.2862
+"Business, Management and Accounting","Business, Management and Accounting",555,0.2583
+"Business, Management and Accounting",Computer Science,425,0.1978
+"Business, Management and Accounting",Decision Sciences,251,0.1168
+"Business, Management and Accounting",Psychology,131,0.061
+"Business, Management and Accounting",Mathematics,77,0.0358
+"Business, Management and Accounting","Economics, Econometrics and Finance",35,0.0163
+"Business, Management and Accounting",Medicine,28,0.013
+"Business, Management and Accounting",Engineering,12,0.0056
+"Business, Management and Accounting",Neuroscience,9,0.0042
+"Business, Management and Accounting",Health Professions,7,0.0033
+"Business, Management and Accounting",Environmental Science,2,0.0009
+"Business, Management and Accounting",Arts and Humanities,1,0.0005
+"Business, Management and Accounting","Biochemistry, Genetics and Molecular Biology",1,0.0005
+Chemistry,Computer Science,61,0.6932
+Chemistry,Mathematics,14,0.1591
+Chemistry,Medicine,4,0.0455
+Chemistry,Chemistry,3,0.0341
+Chemistry,Social Sciences,3,0.0341
+Chemistry,Decision Sciences,1,0.0114
+Chemistry,Engineering,1,0.0114
+Chemistry,Health Professions,1,0.0114
+Computer Science,Computer Science,6957,0.599
+Computer Science,Social Sciences,2215,0.1907
+Computer Science,Medicine,764,0.0658
+Computer Science,Decision Sciences,596,0.0513
+Computer Science,Mathematics,336,0.0289
+Computer Science,Psychology,298,0.0257
+Computer Science,"Business, Management and Accounting",131,0.0113
+Computer Science,Engineering,101,0.0087
+Computer Science,Health Professions,61,0.0053
+Computer Science,Arts and Humanities,42,0.0036
+Computer Science,"Biochemistry, Genetics and Molecular Biology",34,0.0029
+Computer Science,"Economics, Econometrics and Finance",34,0.0029
+Computer Science,Neuroscience,14,0.0012
+Computer Science,Environmental Science,13,0.0011
+Computer Science,Physics and Astronomy,11,0.0009
+Computer Science,Earth and Planetary Sciences,4,0.0003
+Computer Science,Agricultural and Biological Sciences,2,0.0002
+Computer Science,Nursing,1,0.0001
+Decision Sciences,Decision Sciences,477,0.2934
+Decision Sciences,Computer Science,377,0.2319
+Decision Sciences,Social Sciences,329,0.2023
+Decision Sciences,Medicine,160,0.0984
+Decision Sciences,Mathematics,110,0.0677
+Decision Sciences,Psychology,66,0.0406
+Decision Sciences,"Business, Management and Accounting",48,0.0295
+Decision Sciences,Engineering,19,0.0117
+Decision Sciences,Health Professions,14,0.0086
+Decision Sciences,Physics and Astronomy,9,0.0055
+Decision Sciences,"Biochemistry, Genetics and Molecular Biology",5,0.0031
+Decision Sciences,Arts and Humanities,4,0.0025
+Decision Sciences,Earth and Planetary Sciences,2,0.0012
+Decision Sciences,Environmental Science,2,0.0012
+Decision Sciences,Neuroscience,2,0.0012
+Decision Sciences,"Economics, Econometrics and Finance",1,0.0006
+Decision Sciences,Nursing,1,0.0006
+Dentistry,Medicine,50,0.3268
+Dentistry,Computer Science,30,0.1961
+Dentistry,Dentistry,23,0.1503
+Dentistry,Decision Sciences,20,0.1307
+Dentistry,Mathematics,13,0.085
+Dentistry,Health Professions,8,0.0523
+Dentistry,Social Sciences,8,0.0523
+Dentistry,"Biochemistry, Genetics and Molecular Biology",1,0.0065
+Earth and Planetary Sciences,Computer Science,79,0.513
+Earth and Planetary Sciences,Environmental Science,26,0.1688
+Earth and Planetary Sciences,Earth and Planetary Sciences,24,0.1558
+Earth and Planetary Sciences,Mathematics,16,0.1039
+Earth and Planetary Sciences,Physics and Astronomy,3,0.0195
+Earth and Planetary Sciences,"Biochemistry, Genetics and Molecular Biology",2,0.013
+Earth and Planetary Sciences,Decision Sciences,1,0.0065
+Earth and Planetary Sciences,"Economics, Econometrics and Finance",1,0.0065
+Earth and Planetary Sciences,Engineering,1,0.0065
+Earth and Planetary Sciences,Medicine,1,0.0065
+"Economics, Econometrics and Finance",Computer Science,65,0.3186
+"Economics, Econometrics and Finance",Social Sciences,49,0.2402
+"Economics, Econometrics and Finance",Mathematics,34,0.1667
+"Economics, Econometrics and Finance",Decision Sciences,31,0.152
+"Economics, Econometrics and Finance","Business, Management and Accounting",12,0.0588
+"Economics, Econometrics and Finance",Engineering,3,0.0147
+"Economics, Econometrics and Finance",Medicine,3,0.0147
+"Economics, Econometrics and Finance","Economics, Econometrics and Finance",2,0.0098
+"Economics, Econometrics and Finance",Psychology,2,0.0098
+"Economics, Econometrics and Finance",Environmental Science,1,0.0049
+"Economics, Econometrics and Finance",Health Professions,1,0.0049
+"Economics, Econometrics and Finance",Physics and Astronomy,1,0.0049
+Energy,Decision Sciences,1,0.5
+Energy,Social Sciences,1,0.5
+Engineering,Computer Science,755,0.5945
+Engineering,Engineering,204,0.1606
+Engineering,Social Sciences,104,0.0819
+Engineering,Mathematics,83,0.0654
+Engineering,Decision Sciences,45,0.0354
+Engineering,Medicine,28,0.022
+Engineering,Psychology,15,0.0118
+Engineering,Physics and Astronomy,11,0.0087
+Engineering,Earth and Planetary Sciences,7,0.0055
+Engineering,"Biochemistry, Genetics and Molecular Biology",6,0.0047
+Engineering,Environmental Science,4,0.0031
+Engineering,"Business, Management and Accounting",2,0.0016
+Engineering,Health Professions,2,0.0016
+Engineering,Arts and Humanities,1,0.0008
+Engineering,Chemistry,1,0.0008
+Engineering,"Economics, Econometrics and Finance",1,0.0008
+Engineering,Neuroscience,1,0.0008
+Environmental Science,Computer Science,360,0.4688
+Environmental Science,Environmental Science,171,0.2227
+Environmental Science,Mathematics,132,0.1719
+Environmental Science,Social Sciences,26,0.0339
+Environmental Science,Decision Sciences,17,0.0221
+Environmental Science,Engineering,17,0.0221
+Environmental Science,Physics and Astronomy,12,0.0156
+Environmental Science,Medicine,9,0.0117
+Environmental Science,"Economics, Econometrics and Finance",6,0.0078
+Environmental Science,Earth and Planetary Sciences,5,0.0065
+Environmental Science,Health Professions,4,0.0052
+Environmental Science,Arts and Humanities,3,0.0039
+Environmental Science,"Biochemistry, Genetics and Molecular Biology",3,0.0039
+Environmental Science,Psychology,2,0.0026
+Environmental Science,Agricultural and Biological Sciences,1,0.0013
+Health Professions,Medicine,241,0.3301
+Health Professions,Computer Science,179,0.2452
+Health Professions,Decision Sciences,99,0.1356
+Health Professions,Mathematics,79,0.1082
+Health Professions,Social Sciences,61,0.0836
+Health Professions,Health Professions,56,0.0767
+Health Professions,"Biochemistry, Genetics and Molecular Biology",3,0.0041
+Health Professions,"Economics, Econometrics and Finance",3,0.0041
+Health Professions,Environmental Science,3,0.0041
+Health Professions,Psychology,2,0.0027
+Health Professions,Dentistry,1,0.0014
+Health Professions,Earth and Planetary Sciences,1,0.0014
+Health Professions,Engineering,1,0.0014
+Health Professions,Physics and Astronomy,1,0.0014
+Immunology and Microbiology,Computer Science,18,0.72
+Immunology and Microbiology,Decision Sciences,4,0.16
+Immunology and Microbiology,Medicine,2,0.08
+Immunology and Microbiology,"Biochemistry, Genetics and Molecular Biology",1,0.04
+Materials Science,Computer Science,26,0.5909
+Materials Science,Mathematics,8,0.1818
+Materials Science,Decision Sciences,3,0.0682
+Materials Science,"Biochemistry, Genetics and Molecular Biology",2,0.0455
+Materials Science,Engineering,2,0.0455
+Materials Science,Social Sciences,2,0.0455
+Materials Science,Physics and Astronomy,1,0.0227
+Mathematics,Mathematics,120,0.424
+Mathematics,Computer Science,77,0.2721
+Mathematics,Decision Sciences,36,0.1272
+Mathematics,Medicine,23,0.0813
+Mathematics,Social Sciences,15,0.053
+Mathematics,Health Professions,5,0.0177
+Mathematics,Earth and Planetary Sciences,2,0.0071
+Mathematics,Arts and Humanities,1,0.0035
+Mathematics,"Biochemistry, Genetics and Molecular Biology",1,0.0035
+Mathematics,"Economics, Econometrics and Finance",1,0.0035
+Mathematics,Engineering,1,0.0035
+Mathematics,Environmental Science,1,0.0035
+Medicine,Medicine,5143,0.4652
+Medicine,Computer Science,2683,0.2427
+Medicine,Social Sciences,1314,0.1189
+Medicine,Decision Sciences,782,0.0707
+Medicine,Mathematics,483,0.0437
+Medicine,Health Professions,226,0.0204
+Medicine,Psychology,217,0.0196
+Medicine,"Biochemistry, Genetics and Molecular Biology",76,0.0069
+Medicine,Engineering,54,0.0049
+Medicine,"Business, Management and Accounting",18,0.0016
+Medicine,Arts and Humanities,15,0.0014
+Medicine,"Economics, Econometrics and Finance",14,0.0013
+Medicine,Neuroscience,11,0.001
+Medicine,Earth and Planetary Sciences,6,0.0005
+Medicine,Environmental Science,6,0.0005
+Medicine,Dentistry,3,0.0003
+Medicine,Nursing,3,0.0003
+Medicine,Physics and Astronomy,1,0.0001
+Neuroscience,Computer Science,95,0.3975
+Neuroscience,Social Sciences,37,0.1548
+Neuroscience,Medicine,34,0.1423
+Neuroscience,Psychology,19,0.0795
+Neuroscience,Mathematics,15,0.0628
+Neuroscience,Neuroscience,15,0.0628
+Neuroscience,Decision Sciences,13,0.0544
+Neuroscience,"Business, Management and Accounting",4,0.0167
+Neuroscience,Engineering,3,0.0126
+Neuroscience,Health Professions,2,0.0084
+Neuroscience,"Biochemistry, Genetics and Molecular Biology",1,0.0042
+Neuroscience,Environmental Science,1,0.0042
+Nursing,Medicine,10,0.5
+Nursing,Social Sciences,6,0.3
+Nursing,Computer Science,2,0.1
+Nursing,Decision Sciences,2,0.1
+"Pharmacology, Toxicology and Pharmaceutics",Computer Science,15,0.3571
+"Pharmacology, Toxicology and Pharmaceutics",Medicine,14,0.3333
+"Pharmacology, Toxicology and Pharmaceutics",Decision Sciences,5,0.119
+"Pharmacology, Toxicology and Pharmaceutics",Social Sciences,4,0.0952
+"Pharmacology, Toxicology and Pharmaceutics","Biochemistry, Genetics and Molecular Biology",2,0.0476
+"Pharmacology, Toxicology and Pharmaceutics",Health Professions,1,0.0238
+"Pharmacology, Toxicology and Pharmaceutics",Mathematics,1,0.0238
+Physics and Astronomy,Computer Science,56,0.4179
+Physics and Astronomy,Mathematics,25,0.1866
+Physics and Astronomy,Medicine,20,0.1493
+Physics and Astronomy,Physics and Astronomy,14,0.1045
+Physics and Astronomy,Decision Sciences,10,0.0746
+Physics and Astronomy,Social Sciences,3,0.0224
+Physics and Astronomy,Health Professions,2,0.0149
+Physics and Astronomy,Psychology,2,0.0149
+Physics and Astronomy,"Biochemistry, Genetics and Molecular Biology",1,0.0075
+Physics and Astronomy,Earth and Planetary Sciences,1,0.0075
+Psychology,Psychology,434,0.3285
+Psychology,Computer Science,405,0.3066
+Psychology,Social Sciences,188,0.1423
+Psychology,Decision Sciences,106,0.0802
+Psychology,Medicine,61,0.0462
+Psychology,"Business, Management and Accounting",53,0.0401
+Psychology,Mathematics,37,0.028
+Psychology,Health Professions,13,0.0098
+Psychology,Neuroscience,9,0.0068
+Psychology,Arts and Humanities,5,0.0038
+Psychology,"Economics, Econometrics and Finance",4,0.003
+Psychology,"Biochemistry, Genetics and Molecular Biology",3,0.0023
+Psychology,Engineering,3,0.0023
+Social Sciences,Social Sciences,9471,0.6142
+Social Sciences,Computer Science,3291,0.2134
+Social Sciences,Decision Sciences,664,0.0431
+Social Sciences,Medicine,628,0.0407
+Social Sciences,"Business, Management and Accounting",447,0.029
+Social Sciences,Psychology,433,0.0281
+Social Sciences,Mathematics,186,0.0121
+Social Sciences,Engineering,77,0.005
+Social Sciences,Neuroscience,63,0.0041
+Social Sciences,"Economics, Econometrics and Finance",55,0.0036
+Social Sciences,Arts and Humanities,48,0.0031
+Social Sciences,Health Professions,20,0.0013
+Social Sciences,"Biochemistry, Genetics and Molecular Biology",14,0.0009
+Social Sciences,Earth and Planetary Sciences,9,0.0006
+Social Sciences,Environmental Science,7,0.0005
+Social Sciences,Physics and Astronomy,6,0.0004
+Social Sciences,Agricultural and Biological Sciences,1,0.0001
+Veterinary,Computer Science,13,0.3171
+Veterinary,Mathematics,13,0.3171
+Veterinary,Decision Sciences,6,0.1463
+Veterinary,Medicine,4,0.0976
+Veterinary,Health Professions,3,0.0732
+Veterinary,"Biochemistry, Genetics and Molecular Biology",2,0.0488

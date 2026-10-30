@@ -1,0 +1,10 @@
+step,records
+Records exported from WoS Core Collection,5676
+After removing duplicate UT/DOI,5676
+"Excluded: editorials, letters, book chapters, retracted",60
+"After document-type filter (article, review, proceedings paper)",5616
+Excluded: non-English,76
+Excluded: missing abstract,4
+Analysis corpus (2018-2026),5536
+  of which complete years 2018-2025 (trend analyses),4354
+  of which partial year 2026 (export 2026-05-06),1182

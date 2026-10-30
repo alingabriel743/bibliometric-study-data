@@ -1,0 +1,16 @@
+first_author,year,title,source,DOI,TC,TC_per_year,document_type
+"Arrieta, AB",2020,"Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",INFORMATION FUSION,10.1016/j.inffus.2019.12.012,6044,863.43,article
+"Jobin, A",2019,The global landscape of AI ethics guidelines,NATURE MACHINE INTELLIGENCE,10.1038/s42256-019-0088-2,2518,314.75,article
+"Campbell, PJ",2020,Pan-cancer analysis of whole genomes,NATURE,10.1038/s41586-020-1969-6,2056,293.71,article
+"Alowais, SA",2023,Revolutionizing healthcare: the role of artificial intelligence in clinical practice,BMC MEDICAL EDUCATION,10.1186/s12909-023-04698-z,1596,399.0,review
+"Gilpin, LH",2018,Explaining Explanations: An Overview of Interpretability of Machine Learning,2018 IEEE 5TH INTERNATIONAL CONFERENCE ON DATA SCIENCE AND ADVANCED ANALYTICS (DSAA),10.1109/DSAA.2018.00018,1536,170.67,proceedings paper
+"Collins, GS",2024,TRIPOD plus AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods,BMJ-BRITISH MEDICAL JOURNAL,10.1136/bmj-2023-078378,1444,481.33,article
+"Dwivedi, YK",2022,"Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",INTERNATIONAL JOURNAL OF INFORMATION MANAGEMENT,10.1016/j.ijinfomgt.2022.102542,1259,251.8,article
+"Rivera, SC",2020,Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension,LANCET DIGITAL HEALTH,10.1016/S2589-7500(20)30219-3,1089,155.57,review
+"Ghassemi, M",2021,The false hope of current approaches to explainable artificial in health care,LANCET DIGITAL HEALTH,,892,148.67,article
+"Liu, XX",2020,Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension,LANCET DIGITAL HEALTH,10.1016/S2589-7500(20)30218-1,869,124.14,review
+"Ma, ZL",2020,Ultraflexible and Mechanically Strong Double-Layered Aramid Nanofiber-Ti3C2Tx MXene/Silver Nanowire Nanocomposite Papers for High-Performance Electromagnetic Interference Shielding,ACS NANO,10.1021/acsnano.0c02401,806,115.14,article
+"Nagendran, M",2020,"Artificial intelligence versus clinicians: systematic review of design, reporting standards, and claims of deep learning studies",BMJ-BRITISH MEDICAL JOURNAL,10.1136/bmj.m689,735,105.0,review
+"Selbst, AD",2019,Fairness and Abstraction in Sociotechnical Systems,"FAT*'19: PROCEEDINGS OF THE 2019 CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY",10.1145/3287560.3287598,712,89.0,proceedings paper
+"Ng, M",2025,"Global, regional, and national prevalence of adult overweight and obesity, 1990-2021, with forecasts to 2050: a forecasting study for the Global Burden of Disease Study 2021",LANCET,10.1016/S0140-6736(25)00355-1,670,335.0,article
+"Bera, K",2022,Predicting cancer outcomes with radiomics and artificial intelligence in radiology,NATURE REVIEWS CLINICAL ONCOLOGY,10.1038/s41571-021-00560-7,630,126.0,article

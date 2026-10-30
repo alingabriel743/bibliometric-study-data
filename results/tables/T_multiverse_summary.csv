@@ -1,0 +1,7 @@
+claim,criterion,n_specifications,baseline,min,median,max,share_preserved
+H1,CAGR > 0 and within +/-10 points of baseline,4,66.9508,66.9508,76.6931,87.6513,0.5
+H2,top-10 overlap >= 0.8,8,1.0,0.9,0.9,1.0,1.0
+H3,ARI >= 0.6,480,1.0,0.0369,0.3671,1.0,0.0854
+H4,all baseline-significant cells keep their direction,16,1.0,0.8125,0.9688,1.0,0.5
+H5,ratio > 1 and p < 0.05,8,1.6482,1.5657,1.6739,1.7262,1.0
+H6,share of topics matched (cos >= 0.6) >= 0.8,14,1.0,0.7857,0.8928,1.0,0.6429
