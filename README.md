@@ -1,6 +1,6 @@
 # Credibility of AI algorithms and model interference in business: bibliometric study data
 
-Data for the study "Credibility of AI algorithms and model interference in business: A citation-enriched bibliometric analysis with a multiverse and multi-LLM audit of the mapping pipeline" by A.-G. Văduva, C. Iancu, S.-V. Oprea and A. Bâra (Bucharest University of Economic Studies).
+Data for the study "Credibility of AI algorithms and model interference in business: A citation-enriched bibliometric analysis with a multiverse and multi-LLM audit" by A.-G. Văduva, C. Iancu, S.-V. Oprea and A. Bâra (Bucharest University of Economic Studies).
 
 ## Contents
 
